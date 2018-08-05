@@ -1,5 +1,5 @@
 function dwarfRollCall(dwarves) {
-   for(var i =0; i < dwarves.length; i++) {
+  for(var i =0; i < dwarves.length; i++) {
     return (i+1) + '. ' + dwarves[i] + ' ' + (i+2) + '. ' + dwarves[i+1] + ' ' + (i+3) + '. ' + dwarves[i+2] + ' ';
   }
 }
