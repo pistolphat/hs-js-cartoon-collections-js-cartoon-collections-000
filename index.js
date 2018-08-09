@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Function 1 - Dwarf Roll Call
 function dwarfRollCall(dwarves) {
   for(var i =0; i < dwarves.length; i++) {
@@ -38,5 +37,3 @@ function findTheCheese (foods) {
     return 'no cheese!';
   }
 }
-=======
->>>>>>> 056b58fa9b90834612d29f89d830d697a86f5cdc
